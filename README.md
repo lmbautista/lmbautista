@@ -24,7 +24,7 @@ end
 lmbautista_profile = {
   "🤓 Full name" => "Luis Miguel Bautista",
   "🤖 Skills" => "Software engineer and technology enthusiast that enjoy learning, teaching and coding",
-  "🌴 Hobbies" => "I love running, nature, my 🦊, books, food and cooding",
+  "🌴 Hobbies" => "Coding, running, my family ⊂ 🦊, plants🪴 and food",
   "💻 Current role" => "Ruby backend engineer",
   "🚀 Current position" => "Currently working as Backend developer in Jobandtalent having fun with awesome challenges"
 }
